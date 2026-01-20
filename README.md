@@ -2,12 +2,12 @@
 Email spam detection using Machine Learning
 # Email Spam Detection Using Machine Learning
 
-📌 Project Description
+Project Description
 
 This project detects whether an email is spam or not spam using Machine Learning techniques.
 The system uses the Naive Bayes algorithm to classify emails based on their content.
 
- 🛠 Tools & Technologies
+Tools & Technologies
 
 * Python
 * Google Colab
@@ -15,7 +15,7 @@ The system uses the Naive Bayes algorithm to classify emails based on their cont
 * Naive Bayes Algorithm
 * Pandas, Scikit-learn
 
- 📊 Dataset
+Dataset
 
 The dataset contains labeled email messages as:
 
